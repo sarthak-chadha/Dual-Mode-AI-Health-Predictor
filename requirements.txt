@@ -1,0 +1,16 @@
+# Streamlit & Web App
+streamlit
+google-generativeai
+
+# Core ML & Data
+tensorflow
+pandas
+numpy
+scikit-learn
+lightgbm
+joblib
+
+# Utilities & Image Processing
+pillow
+matplotlib
+seaborn
